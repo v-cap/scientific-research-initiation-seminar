@@ -1,2 +1,13 @@
-# seminario-de-iniciacao-a-pesquisa
-Repository for the Research Initiation Seminar subject of the High School Mechatronics Technician course at IFRN - Parnamirim Campus.
+<!--
+<div>
+  <img src="images/Horizontal_Cortado_Novo.png">
+</div>
+-->
+# Seminário de Iniciação à Pesquisa
+#### Técnico Integrado em Mecatrônica
+###### Profº.: [Victor Pimentel](https://github.com/v-cap)
+ - [Técnico Integrado em Informática]
+ - [Técnico Integrado em Mecatrônica]
+
+## Semana 1
+1. _Será disponibilizado em breve_
