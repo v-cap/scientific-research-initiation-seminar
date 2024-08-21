@@ -4,7 +4,7 @@
 </div>
 -->
 # Seminário de Iniciação à Pesquisa
-#### Técnico Integrado em Mecatrônica
+#### Cursos técnicos integrados IFRN - Campus Parnamirim
 ###### Profº.: [Victor Pimentel](https://github.com/v-cap)
 <!-- ###### Classrooms: 
  - [INFO_1M] - _Será disponibilizado em breve_
@@ -13,5 +13,5 @@
  - [MECA_1V] - _Será disponibilizado em breve_
 -->
 ---
-## Semana 1
+## Introdução
 1. _Será disponibilizado em breve_
