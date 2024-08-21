@@ -13,5 +13,8 @@
  - [MECA_1V] - _Será disponibilizado em breve_
 -->
 ---
-## A contribuição da pesquisa para o desenvolvimento científico e tecnológico
+
+[Programa do seminário](https://github.com/v-cap/scientific-research-initiation-seminar/blob/638d4ba83fc31fdd6669738dc9b22976802c58ce/content/EmentaSeminarioIniciacaoPesquisa.pdf)
+
+## Introdução
 1. _Será disponibilizado em breve_
